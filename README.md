@@ -5,3 +5,4 @@ Mes formations sont:
 - Ligne de commande Linux
 - Git/Github
 - HTML5/CSS3.
+- Python
