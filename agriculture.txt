@@ -1,2 +1,3 @@
 - Avocatier
 - Palmier.
+- Carotte
